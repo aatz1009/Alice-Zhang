@@ -1127,3 +1127,21 @@ a {
 .cid-sfawIlTt82 .item-subtitle {
   text-align: center;
 }
+.cid-sgth54DZxT {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffb5b5;
+}
+.cid-sgth54DZxT .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-sgth54DZxT .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sgth54DZxT .text-wrapper {
+    padding: 0 2rem;
+  }
+}
